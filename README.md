@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**shahfahadreal/shahfahadreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Shah, an aspiring Data Analyst in Dubai.
 
-Here are some ideas to get you started:
+I have experience in writing complex SQL Queries, creating Dashboards, and Statistical Modelling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is a fresh profile where I'll be uploading some smaller projects, experiments, and things I'm currently working on. Everything here is built from scratch, no copy/paste templates.
+
+
+## Tools & Tech
+- Python, R, SQL
+- Git, Tableau
+
+## Current Focus
+Building end-to-end data science workflows—from data exploration and feature engineering to model evaluation and visualization.

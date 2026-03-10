@@ -8,7 +8,8 @@ This is a fresh profile where I'll be uploading some smaller projects, experimen
 
 
 ## Tools & Tech
-- Python, R, SQL
+- Python, Numpy Pandas, Matplotlib, Pytorch
+- R, SQL
 - Git, Tableau
 
 ## Current Focus
